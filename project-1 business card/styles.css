@@ -1,0 +1,23 @@
+.container{
+    position: relative;
+    height: 100vh;
+
+}
+.card{
+    position: absolute;
+    left: 100px;
+    top:100px;
+    background-color: rgb(135, 209, 187);
+    width:400px;
+    height:200px;
+}
+.profile{
+    float: left;
+    width: 150px;
+    margin:23px;
+    margin-right: 15px;
+    
+}
+.info{
+    margin-top: 50px;
+}
