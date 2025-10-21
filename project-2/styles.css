@@ -1,0 +1,12 @@
+body{
+    color: white;
+    background: url("images/ssc2019-15b-med.jpg");
+    background-size: cover;
+    text-align:center;
+    align-items: center;
+}
+
+.btn{
+    padding: 6px 10px;
+    background-color:white;
+}
